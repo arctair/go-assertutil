@@ -1,4 +1,4 @@
-package assertutil
+package v1
 
 import (
 	"net/http"
